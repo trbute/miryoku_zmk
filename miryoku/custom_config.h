@@ -3,7 +3,7 @@
 
 #define MIRYOKU_LAYER_CODE \
 U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &kp GRAVE,         &kp DLLR,          &kp LPAR,          &kp RPAR,          &kp AMPS, \
-&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp SQT,           &kp EQUAL,         &kp LBKT,          &kp RBKT,          &kp COLON,\
+&kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp SQT,           &kp EQUAL,         &kp LBKT,          &kp RBKT,          &kp SEMI, \
 U_NA,              &kp RALT,          &u_to_U_MOUSE,     &u_to_U_SYM,       U_NA,              &kp BSLH,          &kp MINUS,         &kp COMMA,         &kp DOT,           &kp SLASH,\
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              &kp PRCNT,         &kp STAR,          &kp EXCL,          U_NP,              U_NP
 
